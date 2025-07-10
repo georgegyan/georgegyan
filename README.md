@@ -6,8 +6,8 @@
 
 I'm **George Gyan Kwame Admobire**, a passionate and driven software developer. I'm currently a student , but also building my path as a **full-stack developer**, working on real-world projects that matter.
 My focus is on building **clean, scalable, and impactful application** from blogs and portfolios to full charity platforms and e-commerce systems. I enjoy turning ideas into products, especially with **Django, Tailwind CSS, and Javascript**.
-I strongly believe in **learning by building**, and that's exactly what I do whether it's  creating a weather app with live data and animation.
-📚 I'm continuously improving my skills and love exploring tools that make development efficient and beautiful.  
+I strongly believe in **learning by building**, and that's exactly what I do whether it's  creating a weather app with live data and animation. <br>
+📚 I'm continuously improving my skills and love exploring tools that make development efficient and beautiful. <br> 
 🧠 I value problem-solving, meaningful design, and making a difference — especially in my local community.
 
 > "The goal is not just to wwrite code... it's to write code that bring ideas to life."
