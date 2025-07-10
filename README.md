@@ -4,8 +4,15 @@
 
 ## About Me🙏🏾
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+ADOMBIRE+GEORGE+GYAN+KWAME;I+am+Computer+Science+Student%E2%9D%A4%EF%B8%8F;I+am+a+software+engineer🧑‍💻;I+love+to+learn+and+explore🔰)](https://git.io/typing-svg)<br>
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Python+Developer🐍;I+am+a+Tech+Explorer🔦)](https://git.io/typing-svg)
+I'm **George Gyan Kwame Admobire**, a passionate and driven software developer. I'm currently a student , but also building my path as a **full-stack developer**, working on real-world projects that matter.
+My focus is on building **clean, scalable, and impactful application** from blogs and portfolios to full charity platforms and e-commerce systems. I enjoy turning ideas into products, especially with **Django, Tailwind CSS, and Javascript**.
+I strongly believe in **learning by building**, and that's exactly what I do whether it's  creating a weather app with live data and animation.
+📚 I'm continuously improving my skills and love exploring tools that make development efficient and beautiful.  
+🧠 I value problem-solving, meaningful design, and making a difference — especially in my local community.
+
+> "The goal is not just to wwrite code... it's to write code that bring ideas to life."
+
+Let's connect, collaborate, and build something great together!
 <div align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 </div>
