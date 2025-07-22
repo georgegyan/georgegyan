@@ -12,7 +12,7 @@ I strongly believe in **learning by building**, and that's exactly what I do whe
 
 > "The goal is not just to wwrite code... it's to write code that bring ideas to life."
 
-Let's connect, collaborate, and build something great together!
+Let's connect, collaborate, and build something great together! I'm
 <div align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 </div>
