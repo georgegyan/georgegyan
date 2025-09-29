@@ -10,7 +10,7 @@ I strongly believe in **learning by building**, and that's exactly what I do whe
 📚 I'm continuously improving my skills and love exploring tools that make development efficient and beautiful. <br> 
 🧠 I value problem-solving, meaningful design, and making a difference — especially in my local community.
 
-> "The goal is not just to wwrite code... it's to write code that bring ideas to life."
+> "The goal is not just to write code... it's to write code that bring ideas to life."
 
 Let's connect, collaborate, and build something great together! I'm
 <div align="center">
