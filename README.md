@@ -11,6 +11,7 @@ I strongly believe in **learning by building**, and that's exactly what I do whe
 🧠 I value problem-solving, meaningful design, and making a difference — especially in my local community.
 
 > "The goal is not just to write code... it's to write code that bring ideas to life."
+> **Build.Innovative.Stability**
 
 Let's connect, collaborate, and build something great together! I'm
 <div align="center">
