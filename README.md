@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-## About Me🙏🏾
+## About Me🙏🏾g
 
 I'm **George Gyan Kwame Admobire**, a passionate and driven software developer. I'm currently a student , but also building my path as a **full-stack developer**, working on real-world projects that matter.<br>
 My focus is on building **clean, scalable, and impactful application** from blogs and portfolios to full charity platforms and e-commerce systems. I enjoy turning ideas into products, especially with **Django, Tailwind CSS, and Javascript**.<br>
