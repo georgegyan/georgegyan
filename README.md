@@ -2,16 +2,28 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-## About Me
+# About Me
 
-I'm **George Gyan Kwame Admobire**, a passionate and driven software developer. I'm currently a student , but also building my path as a **full-stack developer**, working on real-world projects that matter.<br>
-My focus is on building **clean, scalable, and impactful application** from blogs and portfolios to full charity platforms and e-commerce systems. I enjoy turning ideas into products, especially with **Django, Tailwind CSS, and Javascript**.<br>
-I strongly believe in **learning by building**, and that's exactly what I do whether it's  creating a weather app with live data and animation. <br>
-📚 I'm continuously improving my skills and love exploring tools that make development efficient and beautiful. <br> 
-🧠 I value problem-solving, meaningful design, and making a difference — especially in my local community.
+Hi, I'm **George Gyan Kwame Adombire**, a passionate software developer and technology enthusiast from Ghana.
 
-> "The goal is not just to write code... it's to write code that bring ideas to life."
-> **Build.Innovative.Stability**
+I'm currently a student and aspiring full-stack developer, focused on building practical solutions that solve real-world problems. My experience spans web development, backend systems, and modern application design, with a strong interest in creating scalable, user-friendly, and impactful software.
+
+I enjoy working with technologies such as **Python, Django, JavaScript, React, Tailwind CSS, and FastAPI**, turning ideas into functional products that deliver value.
+
+### What I'm Currently Focused On
+
+* Building real-world software projects and startups
+* Contributing to open-source projects
+* Improving my backend engineering and system design skills
+* Exploring AI-powered applications and automation
+* Growing as a developer through continuous learning and collaboration
+
+### What Drives Me
+
+I believe technology is most powerful when it creates opportunities, solves meaningful problems, and improves lives. Every project I work on is an opportunity to learn, innovate, and make a positive impact.
+
+> "The goal is not just to write code, but to build solutions that make a difference."
+
 
 Let's connect, collaborate, and build something great together! I'm
 <div align="center">
