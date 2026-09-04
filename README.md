@@ -152,3 +152,4 @@ Let's connect, collaborate, and build something great together! I'm
 # GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=georgegyan&theme=radical)]
 [![trophy](https://github-profile-trophy.vercel.app/?username=georgegyan)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=georgegyan&theme=radical)
