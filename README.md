@@ -149,5 +149,6 @@ Let's connect, collaborate, and build something great together! I'm
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=georgegyan&theme=tokyonight)](https://git.io/streak-stats)
 
-# Add GitHub Trophies
+# GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=georgegyan&theme=radical)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=georgegyan)](https://github.com/ryo-ma/github-profile-trophy)
