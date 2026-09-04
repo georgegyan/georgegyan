@@ -150,6 +150,6 @@ Let's connect, collaborate, and build something great together! I'm
 ![](https://github-readme-stats.vercel.app/api?username=George&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=George&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=George&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgegyan&show_icons=true&theme=tokyonight" />
 
 
