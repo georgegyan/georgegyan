@@ -147,7 +147,4 @@ Let's connect, collaborate, and build something great together! I'm
 ## ![](https://komarev.com/ghpvc/?username=georgeorgegyan)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=George&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=George&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=George&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=georgegyan&theme=tokyonight)](https://git.io/streak-stats)
