@@ -149,5 +149,3 @@ Let's connect, collaborate, and build something great together! I'm
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=georgegyan&theme=tokyonight)](https://git.io/streak-stats)
 
-# Top Languages Used
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgegyan&layout=compact&theme=tokyonight" />
