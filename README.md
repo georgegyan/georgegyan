@@ -125,10 +125,6 @@ Let's connect, collaborate, and build something great together! I'm
       <br>Bitbucket
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="48" height="48" alt="Jest" />
-      <br>Jest
-    </td>
-    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
