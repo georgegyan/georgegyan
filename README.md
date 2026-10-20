@@ -143,5 +143,9 @@ Let's connect, collaborate, and build something great together! I'm
 ## ![](https://komarev.com/ghpvc/?username=georgeorgegyan)
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=georgegyan&theme=tokyonight)](https://git.io/streak-stats)
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=georgegyan&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
