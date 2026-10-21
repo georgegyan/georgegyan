@@ -144,8 +144,5 @@ Let's connect, collaborate, and build something great together! I'm
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=georgegyan&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=georgegyan&theme=tokyonight&hide_border=true&refresh=20261021" alt="GitHub Streak Stats" />
 </p>
