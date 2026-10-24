@@ -4,7 +4,7 @@
 
 # About Me
 
-Hi, I'm **George Gyan Kwame Adombire**, a passionate software developer and technology enthusiast from Ghana.
+Hi, I'm **George Gyan Kwame Adombire**, a software developer and technology enthusiast from Ghana.
 
 I'm currently a student and aspiring full-stack developer, focused on building practical solutions that solve real-world problems. My experience spans web development, backend systems, and modern application design, with a strong interest in creating scalable, user-friendly, and impactful software.
 
