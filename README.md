@@ -22,7 +22,7 @@ I enjoy working with technologies such as **Python, Django, JavaScript, React, T
 
 I believe technology is most powerful when it creates opportunities, solves meaningful problems, and improves lives. Every project I work on is an opportunity to learn, innovate, and make a positive impact.
 
-> "The goal is not just to write code, but to build solutions that make a difference."
+> "The goal is not just to write code, but to build solutions that make a difference in the world of technology."
 
 
 Let's connect, collaborate, and build something great together! I'm
