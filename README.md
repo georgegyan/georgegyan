@@ -8,7 +8,7 @@ Hi, I'm **George Gyan Kwame Adombire**, a software developer and technology enth
 
 I'm currently a student and a full-stack developer, focused on building practical solutions that solve real-world problems. My experience spans web development, backend systems, AI/ML, and modern application design, with a strong interest in creating scalable, user-friendly, and impactful software.
 
-I enjoy working with technologies such as **Python, Django, JavaScript, React, Tailwind CSS, and FastAPI**, turning ideas into functional products that deliver value.
+I enjoy working with technologies such as **Python, Django, JavaScript, React, React Native, Tailwind CSS, and FastAPI**, turning ideas into functional products that deliver value.
 
 ### What I'm Currently Focused On
 
